@@ -1,7 +1,8 @@
 #include <Arduino.h>
 
 #define PWMLED 6
-#define Lichtsensor 2
+#define Lichtsensor 2^
+#define Anderung 3
 
 void setup()
 {

@@ -1,5 +1,4 @@
-.pio
-.vscode
+
 
 @@ -0,0 +1,41 @@
 # Prerequisites
@@ -43,3 +42,6 @@
 
 # debug information files
 *.dwo
+
+.pio
+.vscode
